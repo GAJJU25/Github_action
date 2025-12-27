@@ -1,2 +1,3 @@
 # Github_action
-For Practice
+THis is github action repo.
+new repo for github practice
